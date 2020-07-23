@@ -1,4 +1,4 @@
-# Tēnā koe :call_me_hand:
+# Tēnā koe :punch:
 
 **What's crackin'?**
 - :smiling_imp: [Deno](https://deno.land/) and [Rust](https://www.rust-lang.org/)
