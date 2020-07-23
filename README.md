@@ -1,1 +1,1 @@
-# Tēnā koe :punch:
+# Tēnā koe / Chur :punch:
