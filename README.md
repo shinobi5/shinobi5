@@ -1,7 +1,7 @@
 # Tēnā koe.
 
 **He aha?**
-- :smiling_imp: [Deno](https://deno.land/) and [Rust](https://www.rust-lang.org/)
+- :smiling_imp: [Rust](https://www.rust-lang.org/) and [Deno](https://deno.land/)
 - :space_invader: Learning robotics
 - :musical_keyboard: Making beats
 - :martial_arts_uniform: Teaching Jiu Jitsu
